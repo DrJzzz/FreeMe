@@ -1,2 +1,2 @@
 # FreeMe
-Brawser extension to block unwanted websites.
+Browser extension to block unwanted content.
